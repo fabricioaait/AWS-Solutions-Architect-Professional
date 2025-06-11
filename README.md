@@ -1,5 +1,6 @@
-# AWS-Solutions-Architect-Professional
-AWS Solutions Architect Professional Study Guide  
+# AWS Solutions Architect Professional SAP-CO2 Study Guide
+
+Concise AWS Solutions Architect Professional Study Guide  
 
 
 Other Services Summary
